@@ -1,0 +1,1 @@
+./hashcat -m 500 .\passwordCracking\passwords-no-names.txt -a 3 -1 ?l?d ?1?1?1?1?1 --increment --increment-min 1 --increment-max 6
